@@ -1,9 +1,7 @@
 ## Account App API
-Here developed the account API with all required operations
-
-## Description
-
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+
+Here developed the account API with all required operations
 
 ## Installation
 
